@@ -125,7 +125,7 @@ if __name__ == '__main__':
         if choice == '3':
             consulta = 'inurl:/includes/header.php?systempath='
         if choice == '4':
-            consulta = input("Introduce cual es la dork que quieres sacar")
+            consulta = input("Introduce cual es la dork que quieres sacar: ")
         if choice == 5 :
             sys.exit()
         print(scrapper(consulta))
