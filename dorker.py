@@ -135,6 +135,7 @@ if __name__ == '__main__':
         else:
             print('[+] Finalizando programa')
             print('[+] Recuerda F Society no es lo mismo que Fsociety')
+            print('Unete a mi comunidad!!!: https://t.me/+ztgFD3ifWJQ0NmE0 ')
             break
 
 
