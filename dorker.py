@@ -98,7 +98,10 @@ def scrapper(consulta):
                       'https://policies.google.',
                       'https://support.google.',
                       'https://maps.google.',
-                      'https://translate.google.')
+                      'https://translate.google.',
+                      'https://translate.google.co.',
+                      'https://google.co.',
+                      'https://policies.google.')
     salida = []
     for link in enlaces[:]:
         if link.startswith(dominios_google):
